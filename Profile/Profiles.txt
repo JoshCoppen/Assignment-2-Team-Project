@@ -2,10 +2,10 @@ Name: Seth Underdown
 Student ID: S3794214
 Email: S3794214@student.rmit.edu.au
 Gitpage: https://seththehedgehog.github.io/Assignment1/
-Background: 
-Hobbies: 
-IT Interest:
-IT Experience:
+Background: Was born in Australia and have been moving between towns and states all my life.
+Hobbies: Video games, music and flim
+IT Interest: I have always been involved with IT and enjoyed using it and making things with it
+IT Experience: Cert III in Information and Digital Media Technologies, Cert I in IT
 
 Name: Dylan (omitted)
 Student ID: s3793998
