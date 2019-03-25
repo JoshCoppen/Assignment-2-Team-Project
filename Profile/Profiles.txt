@@ -1,0 +1,48 @@
+Name: Seth Underdown
+Student ID: S3794214
+Email: S3794214@student.rmit.edu.au
+Gitpage: https://seththehedgehog.github.io/Assignment1/
+Background: 
+Hobbies: 
+IT Interest:
+IT Experience:
+
+Name: Dylan (omitted)
+Student ID: s3793998
+Email: s3793998@student.rmit.edu.au
+Gitpage: https://dyl459.github.io/
+Background: Grew up in rural Australia in a family heavily involved in technology resulting in a great interest in the area. 
+Hobbies: Information Technology – Particularly coding solutions to problems.
+IT Interest: Stems from the above (growing up around IT). Love the vast variety of issues IT can solve.
+IT Experience: Education: 
+Certificate III in Information, Digital Media and Technology (TAFESA)
+Currently studying Bachelor of Information Technology (RMIT)
+IT Experience: Work:  Volunteering/Work experience – IT Help Desk (Jan 2016 – April 2017)
+(Omitted Employer Name) – Level 2 IT Technician (April 2017 – Dec 2019)
+
+Name: Joshua Coppen
+Student ID: S3775648
+Email: S3775648@student.rmit.edu.au
+Gitpage: https://joshcoppen.github.io/My-Profile/
+Background: Born and raised in Adelaide. Both parents from England with a massive family still there.
+Hobbies: Pc gaming, following sports such as AFL (Adelaide Crows), Soccer (Wolverhampton Wanderers) and the NFL (New England Patriots)
+IT Interest: Love gaming and building PC’s, now want to take my knowledge further.
+IT Experience: Building PC’s for me and my friends, helping troubleshoot for family and friends
+
+Name: Ryan Bullock
+Student ID: S3723455
+Email: S3723455@student.rmit.edu.au
+Gitpage: https://splittingtails.github.io/
+Background: I am Australian but my background is English and Irish my ancestors fled the UK after world war 2 started
+Hobbies: playing field hockey for La Trobe Uni, snowboarding, video games,eating food
+IT Interest: servers, virtual machines, networking, web development
+IT Experience: Advanced diploma in computer systems engineering, 8 years of I.T experience working in help desk and systems analyst also running my own small business on the side
+
+Name: 
+Student ID: 
+Email: (StudentID)@student.rmit.edu.au
+Gitpage:
+Background: 
+Hobbies: 
+IT Interest:
+IT Experience:
