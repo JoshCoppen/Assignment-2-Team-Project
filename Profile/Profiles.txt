@@ -46,3 +46,12 @@ Background: Born in Canberra. Live in Hobart.
 Hobbies: Gaming, Military History and IT in general
 IT Interest:Always been interested in Information Technology but have been mostly interested in areas such as software/game development and networking
 IT Experience:Studied Computer Science at college. also help troubleshoot computer problems for family and friends. 
+
+Name: Arin Edwards
+Student ID: S3788793
+Email: S3788793@student.rmit.edu.au
+Gitpage:https://arinedwards.github.io/Assignment/
+Background: From Australia, been here all my life. Have an English/Irish background from ancestors that came here on the first fleet to Australia. 
+Hobbies: Building and upgrading computers, computer/console gaming.
+IT Interest:Mostly anything I.T I can find interesting.
+IT Experience: Builidng computers for friends and family, and of course doing this current course.
