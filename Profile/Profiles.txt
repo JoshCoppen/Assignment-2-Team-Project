@@ -1,4 +1,4 @@
-Name: Seth Underdown
+﻿Name: Seth Underdown
 Student ID: S3794214
 Email: S3794214@student.rmit.edu.au
 Gitpage: https://seththehedgehog.github.io/Assignment1/
@@ -29,14 +29,38 @@ Hobbies: Pc gaming, following sports such as AFL (Adelaide Crows), Soccer (Wolve
 IT Interest: Love gaming and building PC’s, now want to take my knowledge further.
 IT Experience: Building PC’s for me and my friends, helping troubleshoot for family and friends
 
+---Start of Ryan's information---
+
+---Ryan's Details---
+
 Name: Ryan Bullock
 Student ID: S3723455
 Email: S3723455@student.rmit.edu.au
 Gitpage: https://splittingtails.github.io/
-Background: I am Australian but my background is English and Irish my ancestors fled the UK after world war 2 started
-Hobbies: playing field hockey for La Trobe Uni, snowboarding, video games,eating food
+Background: I am Australian, but my background is English and Irish my ancestors fled the UK after world war 2 started
+Hobbies: playing field hockey for La Trobe Uni, snowboarding, video games, eating food
 IT Interest: servers, virtual machines, networking, web development
 IT Experience: Advanced diploma in computer systems engineering, 8 years of I.T experience working in help desk and systems analyst also running my own small business on the side
+
+---Ryan's Personal information---
+
+Ryan's Student ID is S3723455 and E-mail address is S3723455@student.rmit.edu.au, He is also a member of <Team name>
+
+Ryan was born and raised in Melbourne Australia, but his family background is from England and Ireland. Ryan has had several years of IT experience in the industry when he first started studying an advanced diploma of computer systems engineering and then getting his first job as a level 1 help desk technician. he stayed at the company for 7 years and reached a senior system engineer role. He is now working as a Systems Analyst and has been at this job for nearly a year. Ryan first got interested in IT when his dad bought home a Pentium 2 and he first started to play Abe’s Odyssey and The Sims. this led to Ryan being the house hold computer tech fixing the internet connection and printer issues. Ryan’s main interests in IT are networking and servers this includes virtualization and cloud computer, he also enjoys writing and modifying PowerShell scripts and building websites.
+
+---Ryan's Ideal Job (copy pasted) ---
+
+This is my ideal job because it has so many different types of technology involved and I can always be up-to-date with the latest I.T trends such as design network with Cisco router and switches, using the latest windows server editions and windows products, VMWare ESXi models and hyper-v designs.
+
+---Ryan's Personality Profiles---
+
+Ryan's Personality profile for the 16 Personalities is The Campaigner (ENFP-A)
+
+Ryan's Learning skills are better with a hand on approach as he is 10% Auditory 35% Visual and 55% Tactile (education planner)
+
+Ryan is very organized but is easily distracted, he is very empathetic and willing to help where he can with projects but does not do well with conflict. He also likes to work in small groups as he finds it hard to concentrate in large groups. Ryan hands stress well and prefer to work on projects that he is familiar with rather than experimenting with new idea's (personality perfect)
+
+---End of Ryan’s information---
 
 Name: Jacob Darling
 Student ID: S3777780
