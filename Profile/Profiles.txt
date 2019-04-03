@@ -11,14 +11,18 @@ Name: Dylan (omitted)
 Student ID: s3793998
 Email: s3793998@student.rmit.edu.au
 Gitpage: https://dyl459.github.io/
-Background: Grew up in rural Australia in a family heavily involved in technology resulting in a great interest in the area. 
+Background: Grew up in rural Australia in a family heavily involved in technology resulting in a great interest in the area.
 Hobbies: Information Technology – Particularly coding solutions to problems.
 IT Interest: Stems from the above (growing up around IT). Love the vast variety of issues IT can solve.
-IT Experience: Education: 
+IT Experience: Education:
 Certificate III in Information, Digital Media and Technology (TAFESA)
 Currently studying Bachelor of Information Technology (RMIT)
 IT Experience: Work:  Volunteering/Work experience – IT Help Desk (Jan 2016 – April 2017)
 (Omitted Employer Name) – Level 2 IT Technician (April 2017 – Dec 2019)
+
+---Start of Josh's information---
+
+---Josh's Details---
 
 Name: Joshua Coppen
 Student ID: S3775648
@@ -28,6 +32,11 @@ Background: Born and raised in Adelaide. Both parents from England with a massiv
 Hobbies: Pc gaming, following sports such as AFL (Adelaide Crows), Soccer (Wolverhampton Wanderers) and the NFL (New England Patriots)
 IT Interest: Love gaming and building PC’s, now want to take my knowledge further.
 IT Experience: Building PC’s for me and my friends, helping troubleshoot for family and friends
+
+---Josh's Personal information---
+Josh is a 27-year-old father of two who was born and raised in Adelaide, South Australia. Josh’s parents were both born in England and both arrived at shores of Australia when they were 5 years old.  Playing video games and following a multitude of sports are Josh’s favourite hobbies. His favourite sport is Australian rules football and he is a diehard Adelaide Crows supporter.
+Ever since Josh was young, he had an avid interest in computers through gaming.  In his desire to play World of Warcraft Josh built his first computer. Realising how much fun he had building his first PC with his friends he knew one day he would want to follow a career with computers. Now that he has put his and his family into a sound financial position, Josh Is following his dream by studying a Bachelor of Information technology at RMIT University.
+
 
 ---Start of Ryan's information---
 
@@ -66,16 +75,16 @@ Name: Jacob Darling
 Student ID: S3777780
 Email: S3777780@student.rmit.edu.au
 Gitpage:jordjordrex.github.io
-Background: Born in Canberra. Live in Hobart. 
+Background: Born in Canberra. Live in Hobart.
 Hobbies: Gaming, Military History and IT in general
 IT Interest:Always been interested in Information Technology but have been mostly interested in areas such as software/game development and networking
-IT Experience:Studied Computer Science at college. also help troubleshoot computer problems for family and friends. 
+IT Experience:Studied Computer Science at college. also help troubleshoot computer problems for family and friends.
 
 Name: Arin Edwards
 Student ID: S3788793
 Email: S3788793@student.rmit.edu.au
 Gitpage:https://arinedwards.github.io/Assignment/
-Background: From Australia, been here all my life. Have an English/Irish background from ancestors that came here on the first fleet to Australia. 
+Background: From Australia, been here all my life. Have an English/Irish background from ancestors that came here on the first fleet to Australia.
 Hobbies: Building and upgrading computers, computer/console gaming.
 IT Interest:Mostly anything I.T I can find interesting.
 IT Experience: Builidng computers for friends and family, and of course doing this current course.
