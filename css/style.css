@@ -40,12 +40,24 @@ video.vid1 {
 	width: 90%;
 	height:auto;
 }
-		
 img.img1 {
 	width: 30%;
 	max-width: 230px;
 	float: left;
 	margin-right: 10px;
+}
+		
+img.img1L {
+	width: 30%;
+	max-width: 160px;
+	float: left;
+	margin-right: 10px;
+}
+img.img1R {
+	width: 30%;
+	max-width: 160px;
+	float: right;
+	margin-left: 10px;
 }
 img.img2 {
 	max-width: 95%;
