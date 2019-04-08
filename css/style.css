@@ -79,6 +79,14 @@ margin:0px auto;
 font-size: 100%;
 width: 80%
 }
+
+ul.block1 {   
+display: inline-block;  
+text-align: left;
+margin:0px auto;
+font-size: 100%;
+
+}
 b.fff {
 	color: #fff;
 	font-family: 'Arial', sans-serif;
